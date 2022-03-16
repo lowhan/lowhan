@@ -1,5 +1,5 @@
 {
-  "name": "Test",
+  "name": "MDB",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,9 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bufferutil": "^4.0.5",
-    "express": "^4.17.1",
-    "utf-8-validate": "^5.0.7",
-    "ws": "^8.2.3"
+    "express": "^4.17.3",
+    "mongodb": "^4.4.1",
+    "ws": "^8.5.0"
   }
 }
