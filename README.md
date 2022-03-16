@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lowhan
+- 👋 Hi, I’m @lowyinghan
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning C++, C, Python, Js languages
 - 💞️ I’m looking for studies @@
